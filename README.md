@@ -1,5 +1,5 @@
 # ON THE WAY TO THE SUN
-NASA Space Apps Hackathon 2022
+NASA Space Apps Hackathon 2k22
 
 ![image](https://user-images.githubusercontent.com/93612147/193468741-1f8b1a0e-ebb8-4383-ad13-0a5866fc36e5.png)
 
